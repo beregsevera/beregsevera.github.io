@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	color: #770077;
+}
+body{
+	width: 100%;
+	background: #ffeeaa;
+	background: url(sea.png);
+	background-size: cover;
+}
+nav{
+	width: 70%;
+	margin-top: 30%;
+	margin-left: 15%;
+	padding: 30px;
+	text-align: center;
+	border: 3px solid #770077;
+	border-radius: 100px;
+	font-size: 30px;
+	font-family: Comic Sans MS, Arial;
+}
+nav:hover{
+	background: #3300cc;
+	color: #ffeeff;
+	transition: 3s;
+}
