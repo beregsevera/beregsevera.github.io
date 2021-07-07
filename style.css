@@ -6,8 +6,6 @@
 body{
 	width: 100%;
 	background: #ffeeaa;
-	background: url(https://cdna.artstation.com/p/assets/images/images/038/020/128/small/bereg-severa-old-lantern-2-4096.jpg?1621956669) center center no-repeat;
-	background-size: cover;
 }
 nav{
 	width: 70%;
@@ -21,7 +19,6 @@ nav{
 	font-family: Comic Sans MS, Arial;
 }
 nav:hover{
-	background: #3300cc;
 	color: #ffeeff;
 	transition: 3s;
 }
